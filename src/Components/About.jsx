@@ -14,7 +14,7 @@ const BabyX = () => {
       >
         <article className="flex flex-col gap-5">
           <h1 className="text-white about-text flex items-center gap-6 text-5xl font-Header">
-            MEET DOGFACE
+            Check out | ZOGZ | Collection{" "}
           </h1>
 
           <p className=" text-white about-text text-2xl font-Header leading-10">
