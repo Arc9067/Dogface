@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col md:flex-row justify-center items-center gap-5">
           <a
-            href="https://t.me/"
+            href="https://t.me/DogfaceHeDevil"
             className="w-[215px] h-[54px] footer-text px-8 py-4 bg-white shadow border border-amber-300 justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-black  text-base font-bold leading-snug tracking-tight">
@@ -31,7 +31,7 @@ const Footer = () => {
             </div>
           </a>
           <a
-            href="https://twitter.com/"
+            href="https://twitter.com/DogfaceHeDevil"
             className="w-[215px] h-[54px] footer-text px-8 py-4 bg-white shadow border border-amber-300 justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-black text-base font-bold leading-snug tracking-tight">
@@ -53,7 +53,7 @@ const Footer = () => {
 
         <div className="w-full gap-10 mt-8 flex flex-col justify-center md:flex-row  md:justify-center items-center">
           <div className="flex items-center gap-3">
-            <a href="https://t.me/">
+            <a href="https://t.me/DogfaceHeDevil">
               <svg
                 width="58"
                 height="58"
@@ -74,7 +74,7 @@ const Footer = () => {
                 />
               </svg>
             </a>
-            <a href="https://twitter.com/">
+            <a href="https://twitter.com/DogfaceHeDevil">
               <svg
                 width="58"
                 height="58"

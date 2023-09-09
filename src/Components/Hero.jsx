@@ -17,7 +17,7 @@ const Hero = () => {
           found on OpenSea introduces a new twist to the dog/Matt Furie meta.
         </p>
         <a
-          href="https://t.me/"
+          href="https://t.me/DogfaceHeDevil"
           className="w-[199px] hero-text h-[57px] pb-[3px] bg-white rounded-full justify-center items-center inline-flex"
         >
           <div className="grow shrink basis-0 self-stretch px-8 py-4 bg-[#793C99] rounded-full shadow justify-center items-center gap-2.5 inline-flex">
