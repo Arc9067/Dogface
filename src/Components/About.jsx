@@ -22,24 +22,17 @@ const BabyX = () => {
             including “Dogface He-Devil” from the original creator Matt Furie
             himself.
           </p>
-          <div
-            onClick={async () => {
-              let previous = copy.current.innerHTML;
-              let copying = await navigator.clipboard.writeText("0x0000");
-              copy.current.innerHTML = "Ca Copied";
-              setTimeout(() => {
-                copy.current.innerHTML = `COPY CA `;
-              }, 3000);
-            }}
+          <a
+            href="https://opensea.io/assets/ethereum/0x808e5cd160d8819ca24c2053037049eb611d0542/62"
             className="w-[215px] cursor-pointer h-[54px] px-8 py-4 bg-white rounded shadow border border-amber-300 justify-center items-center gap-2.5 inline-flex"
           >
             <div
               ref={copy}
               className="text-black flex justify-center items-center gap-3 text-base font-bold leading-snug tracking-tight"
             >
-              COPY CA <ImCopy />
+              View Artwork
             </div>
-          </div>
+          </a>
         </article>
         <img src={logo} alt="" className="mx-auto about-image animate-spin" />
       </div>
