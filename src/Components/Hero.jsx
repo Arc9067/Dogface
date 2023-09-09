@@ -10,10 +10,11 @@ const Hero = () => {
     >
       <div className="container flex flex-col justify-center items-center gap-6">
         <h1 className="text-white text-center flex items-center gap-4 hero-text text-6xl font-Header  font-normal ">
-          MEET DOGFACE
+          Dogface He-Devil
         </h1>
         <p className="max-w-[493px] text-center hero-text text-white text-xl font-normal leading-loose">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, saepe.
+          Inspired by Matt Furie’s new artwork collection “ZOGZ” which can be
+          found on OpenSea introduces a new twist to the dog/Matt Furie meta.
         </p>
         <a
           href="https://t.me/"
