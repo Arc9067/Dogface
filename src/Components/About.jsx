@@ -18,8 +18,9 @@ const BabyX = () => {
           </h1>
 
           <p className=" text-white about-text text-2xl font-Header leading-10">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique,
-            sequi! Eum qui quos earum dicta.
+            An array of different characters, monsters, and Pepe artwork
+            including “Dogface He-Devil” from the original creator Matt Furie
+            himself.
           </p>
           <div
             onClick={async () => {
